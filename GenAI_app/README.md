@@ -1,4 +1,4 @@
-## **BUILDING AN 'AI Code Reviewer' web app**
+## **BUILDING AN 'AI Code Reviewer' WEB APP**
 
 #### **Overview**
 Generative AI is very powerful. Ever thought of building applications like Chat GPT, that leverages pre-built Large Language Models? Here, I have tried to build an "AI Code Reviwer " web app using Google AI's pre-built LLM 'gemini-1.5-flash'.
@@ -9,6 +9,7 @@ Generative AI is very powerful. Ever thought of building applications like Chat 
     * use streamlit library to create a beautiful, simple, neat UI for the web app
 
 ####  **How to get acess to Google AI's LLM**
+
     * companies like Open AI, Google AI have developed various powerful LLMs
     * to enhance our Generative AI applications, we can take help of these LLMs
     * to access Google AI's LLM, follow these steps :
@@ -35,7 +36,7 @@ All details like :
 
 are available as comments and code in the **CodeReviewer.py** file.
 
-Also find the output in my linkedin post [here]()
+Also find the output in my linkedin post [here](https://www.linkedin.com/posts/abhinaya-a-s_genai-generativeai-llm-activity-7264165971890749440-WY01?utm_source=share&utm_medium=member_desktop)
 
 
 
