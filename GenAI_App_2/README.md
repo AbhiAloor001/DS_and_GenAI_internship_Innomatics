@@ -14,10 +14,9 @@
       - Object and obstacle detection for safe navigation
       - Personalized assistance for daily tasks
   * **Allowed Utilities for Implementation :**
-    1. Langchain
-    2. Streamlit
-    3. Google generative AI
-    4. Python
+    1. Streamlit
+    2. Google generative AI
+    3. Python
 
 ## **GOAL**
 
@@ -133,3 +132,5 @@
    * ✅ documentation reading 📄 & learning 🤓
    * ✅ gTTS 🔊
    * ✅ Object detection using YOLOv4(OpenCV) 🔎
+
+For details about **object detection model** used, refer the notebook **Prerequisites.ipynb**.
