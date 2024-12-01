@@ -104,7 +104,7 @@ with st.expander(":green[__What We Offer?__]", expanded=False):
         </p>
         <p style="color: green; font-family: 'Comic Sans MS'; font-size: 18px;">
         You can upload an image you wish to explore, on our platform. We can help you by doing any of the following 4 tasks :
-        <ol style="color: green; font-family: 'Comic Sans MS'; font-size: 18px;">1. giving real time scene description using our <b>"Instant Narration"</b> feature</ol>
+        <ol style="color: green; font-family: 'Comic Sans MS'; font-size: 18px;">1. giving real time scene description using our <b>"Describe Scene"</b> feature</ol>
         <ol style="color: green; font-family: 'Comic Sans MS'; font-size: 18px;">2. extracting text from the image you have uploaded and reading it aloud using our <b>"Read for me"</b> feature</ol>
         <ol style="color: green; font-family: 'Comic Sans MS'; font-size: 18px;">2. detecting objects in the image you have uploaded using our <b>"What's there on my path?"</b> feature</ol>
         <ol style="color: green; font-family: 'Comic Sans MS'; font-size: 18px;">2. providing task-specific guidance based on the image you have uploaded using our <b>"Help me do"</b> feature</ol>  
